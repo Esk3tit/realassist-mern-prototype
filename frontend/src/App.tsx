@@ -12,7 +12,7 @@ function App() {
         <ChatHistory />
         <div className='flex h-full flex-1 flex-col md:pl-[260px]'>
           <Navbar />
-          <Chat />
+          <Chat newChat={true} />
         </div>
       </div>
     </div>
