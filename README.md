@@ -18,6 +18,11 @@ Clone the repo and install the modules for the frontend and backend.
 * PORT=[port to host backend]
 * OPENAI_API_KEY=[OpenAI API Key]
 
+### Screenshots
+
+![RealAssist Trial](https://user-images.githubusercontent.com/44078850/228796544-ff6fabbc-bcaf-40a5-b686-8e4f54234753.png)
+![RealAssist Chat](https://user-images.githubusercontent.com/44078850/228796607-03bbbfa8-a5d9-40e6-80b9-3301f31126f9.png)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first

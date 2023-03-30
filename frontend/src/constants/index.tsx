@@ -16,4 +16,22 @@ const ChatHistoryButtons = [
   "Contact Us"
 ]
 
-export { ExamplePrompts, ExampleChatHistoryEntries, ChatHistoryButtons };
+const ExampleChatEntries = [
+  {
+    role: "gpt",
+    message: "Hi, I'm RealAssist. I'm here to help you with your real estate business. What can I help you with today?",
+    timestamp: "08:30 pm"
+  },
+  {
+    role: "user",
+    message: "How do I share property descriptions with my clients?",
+    timestamp: "08:30 pm"
+  },
+  {
+    role: "gpt",
+    message: "You can send them by email.",
+    timestamp: "08:30 pm"
+  },
+]
+
+export { ExamplePrompts, ExampleChatHistoryEntries, ChatHistoryButtons, ExampleChatEntries };

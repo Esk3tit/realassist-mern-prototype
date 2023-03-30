@@ -31,4 +31,4 @@ const ChatHistoryEntry = ({ message, index }: ChatHistoryEntryProps) => {
   )
 }
 
-export default ChatHistoryEntry
+export { ChatHistoryEntry, ChatHistoryEntryEven, ChatHistoryEntryOdd }
